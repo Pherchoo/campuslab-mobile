@@ -47,3 +47,6 @@ yarn-error.*
 
 # Exportacion local de verificacion
 dist-check/
+
+# Vista previa web de verificación (contiene configuración local)
+dist-web-check/
